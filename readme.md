@@ -7,7 +7,7 @@
    * Click [here](https://replit.com/@faizan119/mark-2) to play this quiz.
 
 # Technologies used:
-    * Javascript
-    * nodejs
+   *  Javascript
+    *  nodejs
 # Made Using:
-      * [repl.it](https://repl.it/)
+   *   [repl.it](https://repl.it/)
