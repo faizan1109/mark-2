@@ -8,6 +8,6 @@
 
 # Technologies used:
    *  Javascript
-    *  nodejs
+   *  nodejs
 # Made Using:
    *   [repl.it](https://repl.it/)
